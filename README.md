@@ -8,7 +8,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 > git clone https://github.com/y394898139/MyFirstReactApp.git
-> cd ReduxSimpleStarter
+> cd MyFirstReactApp
 > npm install
 > npm start
 ```
