@@ -12,3 +12,6 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > npm install
 > npm start
 ```
+#### Screenshot of the page
+![alt text](Screenshot01.png "")
+![alt text](Screenshot02.png "")
